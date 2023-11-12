@@ -13,5 +13,4 @@ body {
   background-repeat: no-repeat, repeat-y, repeat-x, repeat-y, repeat-x;
   background-position: center, left, top, right, bottom;
   background-size: auto, 50px, 50px, 50px, 400px;
-  /* background-image: url(./images/house.jpg); */
 }
