@@ -4,8 +4,6 @@ body {
 }
 
 .bg-box {
-  height: 100%;
-  width: 100%;
   height: 1080px;
   width: 1920px;
   background-image: url(./images/house.jpg), url(./images/hedgehog.webp),
